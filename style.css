@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    color:yellow;
+}
+.heading{
+    font-size: 22px;
+    width: 40%;
+
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: black dashed;
+
+}
+#result{
+    width: 350px;
+    height: 300px;
+    border: black dashed;
+
+}
